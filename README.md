@@ -6,8 +6,8 @@
     pear install locaweb/LocawebGateway
 
 ## Configuração
-Configure o LocawebGatewayConfig, ele só pode ser configurado uma vez!
-ex.:
+Configure o LocawebGatewayConfig, ele só pode ser configurado uma vez!  ex.:
+
     LocawebGatewayConfig::setEnvironment("sandbox");
     LocawebGatewayConfig::setToken("3a5bbed0-50d4-012f-8d73-0026bb5a6240");
 
