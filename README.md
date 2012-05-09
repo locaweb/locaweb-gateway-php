@@ -102,5 +102,5 @@ Já os 2 arquivos de formulario possuem um exemplo de como captar dados utilizan
 
 ## Documentação
 
-[Documentação do Gateway de Pagamentos Locaweb](http://docs.locawebgateway.com.br)
+[Documentação do Gateway de Pagamentos Locaweb](http://docs.gatewaylocaweb.com.br)
 
