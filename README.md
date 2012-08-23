@@ -3,7 +3,7 @@
 ## Instalação
     pear config-set auto_discover 1
     pear channel-discover locaweb.github.com/pear
-    pear install locaweb/LocawebGateway
+    pear install locaweb/LocawebGateway-beta
 
 ## Configuração
 Configure o LocawebGatewayConfig, ele só pode ser configurado uma vez!  ex.:
